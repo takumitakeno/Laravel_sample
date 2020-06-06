@@ -26,4 +26,3 @@ class FolderController extends Controller
     ]);
 }
 }
-// テスト
